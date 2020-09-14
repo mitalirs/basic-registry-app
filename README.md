@@ -1,1 +1,2 @@
-# basic-registry-app
+# registry-app
+# basic-react-app
