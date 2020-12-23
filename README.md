@@ -1,2 +1,2 @@
-# registry-app
-## made a basic react-app 
+# Registry-app
+#### made a basic react-app 
